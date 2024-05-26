@@ -8,10 +8,7 @@ In this project, we scraped data about the top 100 companies that utilize AWS (A
 
 ## Tools and Technologies
 
-- **AWS (Amazon Web Services)**: Used for data storage and computing resources.
-- **GCP (Google Cloud Platform)**: Utilized for additional data processing and storage.
-- **Databricks**: Leveraged for data analytics and machine learning.
-- **Python**: The primary programming language used for web scraping and data processing.
+
 - **BeautifulSoup and Scrapy**: Libraries used for web scraping.
 
 ## Data Collected
